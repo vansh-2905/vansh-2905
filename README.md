@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vansh-2905
 - 👀 I’m interested in Full stack development and ML. 
 - 🌱 I’m currently learning genAI
-- 📫 How to reach me by emailing me @vanshkapoor29503@gmail.com
+- 📫 How to reach me by emailing me @vanshkapoor29503@gmail.com or connect with me in/vansh-kapoor-b382561b2
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to talk about Marvel universe
 
